@@ -1,0 +1,19 @@
+{
+  "name": "Transcrybe - Live Translation",
+  "url": "https://transcrybe.app/",
+  "description": "Live translated subtitles for audio from your microphone or any Mac app",
+  "category": "media",
+  "platforms": [
+    "mac"
+  ],
+  "deal": "50% off one-time purchase; automatic on Mac App Store and direct website, no code",
+  "pricing": "one-time",
+  "price": {
+    "regular": 29.99,
+    "sale": 14.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-16",
+  "endDate": "2026-12-02"
+}
