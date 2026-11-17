@@ -1,0 +1,20 @@
+{
+  "name": "Nihongo - Japanese Dictionary",
+  "url": "https://nihongo-app.com/",
+  "description": "Japanese dictionary for iPhone and iPad with camera lookup and flashcards automatically created from the words you look up",
+  "category": "education",
+  "platforms": [
+    "ios",
+    "ipad"
+  ],
+  "deal": "50% off Nihongo Pro lifetime, automatically applied; no code needed",
+  "pricing": "lifetime",
+  "price": {
+    "regular": 179.99,
+    "sale": 89.99,
+    "currency": "USD"
+  },
+  "discount": 50,
+  "startDate": "2026-11-16",
+  "endDate": "2026-12-02"
+}
